@@ -1,0 +1,11 @@
+[package]
+name = "simple-graphics"
+version = "0.1.0"
+authors = ["AlbertoCaballero <albertocaballero80@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+kiss3d = "0.29"
+nalgebra = "0.24"
